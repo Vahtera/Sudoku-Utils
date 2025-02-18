@@ -3,7 +3,6 @@
 #
 # Calculates the Minimum and Maximum
 # number of sells for a given sum.
-#
 
 import sys
 import os
